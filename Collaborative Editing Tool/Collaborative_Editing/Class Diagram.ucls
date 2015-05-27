@@ -1,0 +1,1149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class-diagram version="1.1.8" icons="true" always-add-relationships="true" generalizations="true" realizations="true" 
+  associations="true" dependencies="true" nesting-relationships="true">  
+  <class id="1" language="java" name="Paint.PaintPanel" project="HCS_Collaborative_Editing_FINAL_PROJECT" 
+    file="/HCS_Collaborative_Editing_FINAL_PROJECT/src/Paint/PaintPanel.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="353" y="39"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="2" language="java" name="Chat.UserTextStatusCommand" project="HCS_Collaborative_Editing_FINAL_PROJECT" 
+    file="/HCS_Collaborative_Editing_FINAL_PROJECT/src/Chat/UserTextStatusCommand.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="2448" y="3005"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="3" language="java" name="Model.RevisionDocument" project="HCS_Collaborative_Editing_FINAL_PROJECT" 
+    file="/HCS_Collaborative_Editing_FINAL_PROJECT/src/Model/RevisionDocument.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1469" y="460"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="4" language="java" name="Paint.ReleasedCommand" project="HCS_Collaborative_Editing_FINAL_PROJECT" 
+    file="/HCS_Collaborative_Editing_FINAL_PROJECT/src/Paint/ReleasedCommand.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="131" y="1317"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="5" language="java" name="Login.LoginWindow" project="HCS_Collaborative_Editing_FINAL_PROJECT" 
+    file="/HCS_Collaborative_Editing_FINAL_PROJECT/src/Login/LoginWindow.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="2818" y="-138"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="6" language="java" name="Editor.DisconnectEditorCommand" project="HCS_Collaborative_Editing_FINAL_PROJECT" 
+    file="/HCS_Collaborative_Editing_FINAL_PROJECT/src/Editor/DisconnectEditorCommand.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="4263" y="2768"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="7" language="java" name="Paint.UpdatePaintPressedCommand" project="HCS_Collaborative_Editing_FINAL_PROJECT" 
+    file="/HCS_Collaborative_Editing_FINAL_PROJECT/src/Paint/UpdatePaintPressedCommand.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="-102" y="2769"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="8" language="java" name="Editor.EditorClient.ServerHandler" 
+    project="HCS_Collaborative_Editing_FINAL_PROJECT" 
+    file="/HCS_Collaborative_Editing_FINAL_PROJECT/src/Editor/EditorClient.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="2480" y="879"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="9" language="java" name="Chat.AddMessageCommand" project="HCS_Collaborative_Editing_FINAL_PROJECT" 
+    file="/HCS_Collaborative_Editing_FINAL_PROJECT/src/Chat/AddMessageCommand.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1985" y="3290"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="10" language="java" name="Server.PaintServer" project="HCS_Collaborative_Editing_FINAL_PROJECT" 
+    file="/HCS_Collaborative_Editing_FINAL_PROJECT/src/Server/PaintServer.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="-22" y="565"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="11" language="java" name="Model.User" project="HCS_Collaborative_Editing_FINAL_PROJECT" 
+    file="/HCS_Collaborative_Editing_FINAL_PROJECT/src/Model/User.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1960" y="-93"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="12" language="java" name="Paint.PaintClient" project="HCS_Collaborative_Editing_FINAL_PROJECT" 
+    file="/HCS_Collaborative_Editing_FINAL_PROJECT/src/Paint/PaintClient.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="35" y="2436"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="13" language="java" name="Server.ChatServer.ClientAccepterChat" 
+    project="HCS_Collaborative_Editing_FINAL_PROJECT" 
+    file="/HCS_Collaborative_Editing_FINAL_PROJECT/src/Server/ChatServer.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="98" width="157" x="2853" y="2017"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="14" language="java" name="Login.ResetButton" project="HCS_Collaborative_Editing_FINAL_PROJECT" 
+    file="/HCS_Collaborative_Editing_FINAL_PROJECT/src/Login/ResetButton.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="3299" y="545"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="15" language="java" name="Login.LoginServer" project="HCS_Collaborative_Editing_FINAL_PROJECT" 
+    file="/HCS_Collaborative_Editing_FINAL_PROJECT/src/Login/LoginServer.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="3275" y="-187"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="16" language="java" name="Login.RegisterButton" project="HCS_Collaborative_Editing_FINAL_PROJECT" 
+    file="/HCS_Collaborative_Editing_FINAL_PROJECT/src/Login/RegisterButton.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="4361" y="-111"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="17" language="java" name="Chat.DisconnectChatCommand" project="HCS_Collaborative_Editing_FINAL_PROJECT" 
+    file="/HCS_Collaborative_Editing_FINAL_PROJECT/src/Chat/DisconnectChatCommand.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="2846" y="2864"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="18" language="java" name="Login.ForgotPasswordButton" project="HCS_Collaborative_Editing_FINAL_PROJECT" 
+    file="/HCS_Collaborative_Editing_FINAL_PROJECT/src/Login/ForgotPasswordButton.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="3180" y="8"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="19" language="java" name="Server.ChatServer.ClientHandlerChat" 
+    project="HCS_Collaborative_Editing_FINAL_PROJECT" 
+    file="/HCS_Collaborative_Editing_FINAL_PROJECT/src/Server/ChatServer.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="2942" y="2291"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="20" language="java" name="Chat.UpdateChatCommand" project="HCS_Collaborative_Editing_FINAL_PROJECT" 
+    file="/HCS_Collaborative_Editing_FINAL_PROJECT/src/Chat/UpdateChatCommand.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="134" width="306" x="2056" y="2017"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="21" language="java" name="Server.EditorServer.ClientAccepterEditor" 
+    project="HCS_Collaborative_Editing_FINAL_PROJECT" 
+    file="/HCS_Collaborative_Editing_FINAL_PROJECT/src/Server/EditorServer.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="98" width="166" x="3193" y="2335"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="22" language="java" name="Chat.ChatPanelDesigner" project="HCS_Collaborative_Editing_FINAL_PROJECT" 
+    file="/HCS_Collaborative_Editing_FINAL_PROJECT/src/Chat/ChatPanelDesigner.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="549" y="2728"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="23" language="java" name="Server.Run_To_Start_Servers" project="HCS_Collaborative_Editing_FINAL_PROJECT" 
+    file="/HCS_Collaborative_Editing_FINAL_PROJECT/src/Server/Run_To_Start_Servers.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="3276" y="736"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="24" language="java" name="Login.UsernameAlreadyExistsException" 
+    project="HCS_Collaborative_Editing_FINAL_PROJECT" 
+    file="/HCS_Collaborative_Editing_FINAL_PROJECT/src/Login/UsernameAlreadyExistsException.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="4210" y="1664"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="25" language="java" name="Paint.UpdatePaintReleasedCommand" 
+    project="HCS_Collaborative_Editing_FINAL_PROJECT" 
+    file="/HCS_Collaborative_Editing_FINAL_PROJECT/src/Paint/UpdatePaintReleasedCommand.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1806" y="2426"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="26" language="java" name="Chat.ChatClientStart" project="HCS_Collaborative_Editing_FINAL_PROJECT" 
+    file="/HCS_Collaborative_Editing_FINAL_PROJECT/src/Chat/ChatClientStart.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="278" width="215" x="2056" y="2335"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="27" language="java" name="Paint.UpdatePaintDraggedCommand" 
+    project="HCS_Collaborative_Editing_FINAL_PROJECT" 
+    file="/HCS_Collaborative_Editing_FINAL_PROJECT/src/Paint/UpdatePaintDraggedCommand.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="926" y="2482"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="28" language="java" name="Server.ChatServer" project="HCS_Collaborative_Editing_FINAL_PROJECT" 
+    file="/HCS_Collaborative_Editing_FINAL_PROJECT/src/Server/ChatServer.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="296" width="309" x="2781" y="1627"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="29" language="java" name="Editor.MainTextPane" project="HCS_Collaborative_Editing_FINAL_PROJECT" 
+    file="/HCS_Collaborative_Editing_FINAL_PROJECT/src/Editor/MainTextPane.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="2958" y="533"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="30" language="java" name="GUI.MainGUI" project="HCS_Collaborative_Editing_FINAL_PROJECT" 
+    file="/HCS_Collaborative_Editing_FINAL_PROJECT/src/GUI/MainGUI.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="2428" y="-16"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="31" language="java" name="Editor.UpdateEditorCommand" project="HCS_Collaborative_Editing_FINAL_PROJECT" 
+    file="/HCS_Collaborative_Editing_FINAL_PROJECT/src/Editor/UpdateEditorCommand.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="3588" y="2073"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="32" language="java" name="Paint.PaintClient.ServerHandler" 
+    project="HCS_Collaborative_Editing_FINAL_PROJECT" 
+    file="/HCS_Collaborative_Editing_FINAL_PROJECT/src/Paint/PaintClient.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1765" y="2269"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="33" language="java" name="GUI.TimerClass.saveTask" project="HCS_Collaborative_Editing_FINAL_PROJECT" 
+    file="/HCS_Collaborative_Editing_FINAL_PROJECT/src/GUI/TimerClass.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="3983" y="2140"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="34" language="java" name="Editor.EditorClient" project="HCS_Collaborative_Editing_FINAL_PROJECT" 
+    file="/HCS_Collaborative_Editing_FINAL_PROJECT/src/Editor/EditorClient.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="2480" y="558"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="35" language="java" name="Paint.DisconnectPaintCommand" project="HCS_Collaborative_Editing_FINAL_PROJECT" 
+    file="/HCS_Collaborative_Editing_FINAL_PROJECT/src/Paint/DisconnectPaintCommand.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="-240" y="1569"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="36" language="java" name="Server.EditorServer" project="HCS_Collaborative_Editing_FINAL_PROJECT" 
+    file="/HCS_Collaborative_Editing_FINAL_PROJECT/src/Server/EditorServer.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="2941" y="1011"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="37" language="java" name="Server.PaintServer.ClientAccepterPaint" 
+    project="HCS_Collaborative_Editing_FINAL_PROJECT" 
+    file="/HCS_Collaborative_Editing_FINAL_PROJECT/src/Server/PaintServer.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="-147" y="855"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="38" language="java" name="Chat.ChatPanelDesigner.EnterListener" 
+    project="HCS_Collaborative_Editing_FINAL_PROJECT" 
+    file="/HCS_Collaborative_Editing_FINAL_PROJECT/src/Chat/ChatPanelDesigner.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1485" y="3209"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="39" language="java" name="Chat.ChatClientStart.ServerHandler" 
+    project="HCS_Collaborative_Editing_FINAL_PROJECT" 
+    file="/HCS_Collaborative_Editing_FINAL_PROJECT/src/Chat/ChatClientStart.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="2521" y="2690"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="40" language="java" name="Server.PaintServer.ClientHandlerPaint" 
+    project="HCS_Collaborative_Editing_FINAL_PROJECT" 
+    file="/HCS_Collaborative_Editing_FINAL_PROJECT/src/Server/PaintServer.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="-193" y="1286"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="41" language="java" name="Chat.UpdateActiveTextCommand" project="HCS_Collaborative_Editing_FINAL_PROJECT" 
+    file="/HCS_Collaborative_Editing_FINAL_PROJECT/src/Chat/UpdateActiveTextCommand.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="134" width="306" x="2402" y="2017"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="42" language="java" name="Server.EditorServer.ClientHandlerEditor" 
+    project="HCS_Collaborative_Editing_FINAL_PROJECT" 
+    file="/HCS_Collaborative_Editing_FINAL_PROJECT/src/Server/EditorServer.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="3362" y="3314"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="43" language="java" name="Paint.PressedCommand" project="HCS_Collaborative_Editing_FINAL_PROJECT" 
+    file="/HCS_Collaborative_Editing_FINAL_PROJECT/src/Paint/PressedCommand.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="134" width="306" x="995" y="1363"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="44" language="java" name="GUI.TimerClass" project="HCS_Collaborative_Editing_FINAL_PROJECT" 
+    file="/HCS_Collaborative_Editing_FINAL_PROJECT/src/GUI/TimerClass.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="4099" y="1882"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="45" language="java" name="Chat.ChatCommand" project="HCS_Collaborative_Editing_FINAL_PROJECT" 
+    file="/HCS_Collaborative_Editing_FINAL_PROJECT/src/Chat/ChatCommand.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="2455" y="1558"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="46" language="java" name="Paint.PaintCommand" project="HCS_Collaborative_Editing_FINAL_PROJECT" 
+    file="/HCS_Collaborative_Editing_FINAL_PROJECT/src/Paint/PaintCommand.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1074" y="486"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="47" language="java" name="Login.InvalidUsernameException" project="HCS_Collaborative_Editing_FINAL_PROJECT" 
+    file="/HCS_Collaborative_Editing_FINAL_PROJECT/src/Login/InvalidUsernameException.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="3774" y="1136"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="48" language="java" name="Editor.EditorCommand" project="HCS_Collaborative_Editing_FINAL_PROJECT" 
+    file="/HCS_Collaborative_Editing_FINAL_PROJECT/src/Editor/EditorCommand.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="2477" y="1060"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="49" language="java" name="Login.InvalidPasswordException" project="HCS_Collaborative_Editing_FINAL_PROJECT" 
+    file="/HCS_Collaborative_Editing_FINAL_PROJECT/src/Login/InvalidPasswordException.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="4004" y="1542"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="50" language="java" name="Login.LoginServerTest" project="HCS_Collaborative_Editing_FINAL_PROJECT" 
+    file="/HCS_Collaborative_Editing_FINAL_PROJECT/src/Login/LoginServerTest.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="3873" y="64"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="51" language="java" name="Paint.DraggedCommand" project="HCS_Collaborative_Editing_FINAL_PROJECT" 
+    file="/HCS_Collaborative_Editing_FINAL_PROJECT/src/Paint/DraggedCommand.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="134" width="302" x="1341" y="1363"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="52" language="java" name="Editor.AddTextCommand" project="HCS_Collaborative_Editing_FINAL_PROJECT" 
+    file="/HCS_Collaborative_Editing_FINAL_PROJECT/src/Editor/AddTextCommand.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="3795" y="1357"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <dependency id="53">    
+    <end type="SOURCE" refId="34"/>    
+    <end type="TARGET" refId="11"/>  
+  </dependency>  
+  <association id="54">    
+    <end type="SOURCE" refId="30" navigable="false">      
+      <attribute id="55" name="thisUser">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="56" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="11" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="57">    
+    <bendpoint x="3445" y="2653"/>    
+    <bendpoint x="3445" y="2335"/>    
+    <end type="SOURCE" refId="6"/>    
+    <end type="TARGET" refId="36"/>  
+  </dependency>  
+  <dependency id="58">    
+    <bendpoint x="3120" y="2971"/>    
+    <bendpoint x="3120" y="2653"/>    
+    <bendpoint x="3120" y="2335"/>    
+    <bendpoint x="3120" y="2017"/>    
+    <end type="SOURCE" refId="9"/>    
+    <end type="TARGET" refId="28"/>  
+  </dependency>  
+  <generalization id="59">    
+    <bendpoint x="3141" y="2653"/>    
+    <bendpoint x="3141" y="2335"/>    
+    <bendpoint x="3141" y="2017"/>    
+    <bendpoint x="3120" y="1627"/>    
+    <end type="SOURCE" refId="6"/>    
+    <end type="TARGET" refId="48"/>  
+  </generalization>  
+  <nesting id="60">    
+    <bendpoint x="3389" y="2335"/>    
+    <end type="SOURCE" refId="36"/>    
+    <end type="TARGET" refId="42"/>  
+  </nesting>  
+  <generalization id="61">    
+    <end type="SOURCE" refId="20"/>    
+    <end type="TARGET" refId="45"/>  
+  </generalization>  
+  <dependency id="62">    
+    <bendpoint x="1962" y="421"/>    
+    <end type="SOURCE" refId="30"/>    
+    <end type="TARGET" refId="11"/>  
+  </dependency>  
+  <dependency id="63">    
+    <end type="SOURCE" refId="41"/>    
+    <end type="TARGET" refId="26"/>  
+  </dependency>  
+  <dependency id="64">    
+    <bendpoint x="555" y="421"/>    
+    <bendpoint x="555" y="829"/>    
+    <bendpoint x="555" y="1363"/>    
+    <bendpoint x="561" y="1627"/>    
+    <bendpoint x="576" y="2017"/>    
+    <bendpoint x="576" y="2335"/>    
+    <end type="SOURCE" refId="30"/>    
+    <end type="TARGET" refId="22"/>  
+  </dependency>  
+  <dependency id="65">    
+    <end type="SOURCE" refId="13"/>    
+    <end type="TARGET" refId="19"/>  
+  </dependency>  
+  <dependency id="66">    
+    <bendpoint x="4464" y="421"/>    
+    <bendpoint x="4464" y="829"/>    
+    <bendpoint x="4464" y="1363"/>    
+    <end type="SOURCE" refId="30"/>    
+    <end type="TARGET" refId="15"/>  
+  </dependency>  
+  <dependency id="67">    
+    <bendpoint x="3797" y="2017"/>    
+    <bendpoint x="3797" y="1627"/>    
+    <bendpoint x="3541" y="1363"/>    
+    <bendpoint x="3541" y="829"/>    
+    <end type="SOURCE" refId="31"/>    
+    <end type="TARGET" refId="34"/>  
+  </dependency>  
+  <dependency id="68">    
+    <end type="SOURCE" refId="5"/>    
+    <end type="TARGET" refId="16"/>  
+  </dependency>  
+  <dependency id="69">    
+    <bendpoint x="2738" y="2335"/>    
+    <bendpoint x="2738" y="2017"/>    
+    <end type="SOURCE" refId="39"/>    
+    <end type="TARGET" refId="45"/>  
+  </dependency>  
+  <dependency id="70">    
+    <end type="SOURCE" refId="5"/>    
+    <end type="TARGET" refId="23"/>  
+  </dependency>  
+  <dependency id="71">    
+    <end type="SOURCE" refId="37"/>    
+    <end type="TARGET" refId="40"/>  
+  </dependency>  
+  <dependency id="72">    
+    <end type="SOURCE" refId="1"/>    
+    <end type="TARGET" refId="43"/>  
+  </dependency>  
+  <dependency id="73">    
+    <end type="SOURCE" refId="10"/>    
+    <end type="TARGET" refId="7"/>  
+  </dependency>  
+  <dependency id="74">    
+    <end type="SOURCE" refId="8"/>    
+    <end type="TARGET" refId="34"/>  
+  </dependency>  
+  <generalization id="75">    
+    <bendpoint x="2759" y="2335"/>    
+    <bendpoint x="2759" y="2017"/>    
+    <end type="SOURCE" refId="17"/>    
+    <end type="TARGET" refId="45"/>  
+  </generalization>  
+  <dependency id="76">    
+    <bendpoint x="2780" y="2017"/>    
+    <end type="SOURCE" refId="19"/>    
+    <end type="TARGET" refId="45"/>  
+  </dependency>  
+  <generalization id="77">    
+    <bendpoint x="555" y="2335"/>    
+    <bendpoint x="555" y="2017"/>    
+    <bendpoint x="582" y="1627"/>    
+    <bendpoint x="597" y="1363"/>    
+    <end type="SOURCE" refId="35"/>    
+    <end type="TARGET" refId="46"/>  
+  </generalization>  
+  <dependency id="78">    
+    <bendpoint x="1962" y="2335"/>    
+    <bendpoint x="1962" y="2017"/>    
+    <bendpoint x="1962" y="1627"/>    
+    <bendpoint x="1962" y="1363"/>    
+    <end type="SOURCE" refId="32"/>    
+    <end type="TARGET" refId="46"/>  
+  </dependency>  
+  <dependency id="79">    
+    <end type="SOURCE" refId="1"/>    
+    <end type="TARGET" refId="51"/>  
+  </dependency>  
+  <dependency id="80">    
+    <end type="SOURCE" refId="16"/>    
+    <end type="TARGET" refId="5"/>  
+  </dependency>  
+  <dependency id="81">    
+    <end type="SOURCE" refId="33"/>    
+    <end type="TARGET" refId="31"/>  
+  </dependency>  
+  <dependency id="82">    
+    <bendpoint x="2757" y="2653"/>    
+    <bendpoint x="2780" y="2335"/>    
+    <bendpoint x="2822" y="2017"/>    
+    <end type="SOURCE" refId="2"/>    
+    <end type="TARGET" refId="28"/>  
+  </dependency>  
+  <dependency id="83">    
+    <end type="SOURCE" refId="5"/>    
+    <end type="TARGET" refId="18"/>  
+  </dependency>  
+  <dependency id="84">    
+    <bendpoint x="2750" y="421"/>    
+    <bendpoint x="2750" y="829"/>    
+    <bendpoint x="2750" y="1363"/>    
+    <bendpoint x="2750" y="1627"/>    
+    <bendpoint x="2801" y="2017"/>    
+    <bendpoint x="2801" y="2335"/>    
+    <end type="SOURCE" refId="30"/>    
+    <end type="TARGET" refId="17"/>  
+  </dependency>  
+  <association id="85">    
+    <end type="SOURCE" refId="34" navigable="false">      
+      <attribute id="86" name="edit">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="87" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="29" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="88">    
+    <end type="SOURCE" refId="52"/>    
+    <end type="TARGET" refId="36"/>  
+  </dependency>  
+  <dependency id="89">    
+    <end type="SOURCE" refId="7"/>    
+    <end type="TARGET" refId="12"/>  
+  </dependency>  
+  <dependency id="90">    
+    <end type="SOURCE" refId="21"/>    
+    <end type="TARGET" refId="42"/>  
+  </dependency>  
+  <dependency id="91">    
+    <end type="SOURCE" refId="36"/>    
+    <end type="TARGET" refId="31"/>  
+  </dependency>  
+  <dependency id="92">    
+    <end type="SOURCE" refId="14"/>    
+    <end type="TARGET" refId="15"/>  
+  </dependency>  
+  <nesting id="93">    
+    <end type="SOURCE" refId="36"/>    
+    <end type="TARGET" refId="21"/>  
+  </nesting>  
+  <nesting id="94">    
+    <end type="SOURCE" refId="34"/>    
+    <end type="TARGET" refId="8"/>  
+  </nesting>  
+  <generalization id="95">    
+    <bendpoint x="2025" y="2653"/>    
+    <bendpoint x="2025" y="2335"/>    
+    <bendpoint x="2025" y="2017"/>    
+    <end type="SOURCE" refId="2"/>    
+    <end type="TARGET" refId="45"/>  
+  </generalization>  
+  <dependency id="96">    
+    <end type="SOURCE" refId="8"/>    
+    <end type="TARGET" refId="48"/>  
+  </dependency>  
+  <dependency id="97">    
+    <end type="SOURCE" refId="42"/>    
+    <end type="TARGET" refId="36"/>  
+  </dependency>  
+  <dependency id="98">    
+    <bendpoint x="4485" y="421"/>    
+    <bendpoint x="4485" y="829"/>    
+    <bendpoint x="4485" y="1363"/>    
+    <bendpoint x="4485" y="1627"/>    
+    <bendpoint x="4485" y="2017"/>    
+    <bendpoint x="4485" y="2335"/>    
+    <bendpoint x="4485" y="2653"/>    
+    <end type="SOURCE" refId="30"/>    
+    <end type="TARGET" refId="6"/>  
+  </dependency>  
+  <nesting id="99">    
+    <bendpoint x="834" y="2017"/>    
+    <end type="SOURCE" refId="10"/>    
+    <end type="TARGET" refId="40"/>  
+  </nesting>  
+  <dependency id="100">    
+    <end type="SOURCE" refId="28"/>    
+    <end type="TARGET" refId="41"/>  
+  </dependency>  
+  <dependency id="101">    
+    <end type="SOURCE" refId="23"/>    
+    <end type="TARGET" refId="10"/>  
+  </dependency>  
+  <dependency id="102">    
+    <bendpoint x="3141" y="1627"/>    
+    <end type="SOURCE" refId="23"/>    
+    <end type="TARGET" refId="36"/>  
+  </dependency>  
+  <dependency id="103">    
+    <end type="SOURCE" refId="5"/>    
+    <end type="TARGET" refId="14"/>  
+  </dependency>  
+  <dependency id="104">    
+    <bendpoint x="3447" y="1363"/>    
+    <end type="SOURCE" refId="29"/>    
+    <end type="TARGET" refId="52"/>  
+  </dependency>  
+  <dependency id="105">    
+    <end type="SOURCE" refId="1"/>    
+    <end type="TARGET" refId="4"/>  
+  </dependency>  
+  <association id="106">    
+    <end type="SOURCE" refId="16" navigable="false">      
+      <attribute id="107" name="server">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="108" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="15" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="109">    
+    <bendpoint x="3848" y="829"/>    
+    <bendpoint x="3848" y="421"/>    
+    <end type="SOURCE" refId="16"/>    
+    <end type="TARGET" refId="30"/>  
+  </dependency>  
+  <dependency id="110">    
+    <end type="SOURCE" refId="15"/>    
+    <end type="TARGET" refId="24"/>  
+  </dependency>  
+  <dependency id="111">    
+    <end type="SOURCE" refId="38"/>    
+    <end type="TARGET" refId="9"/>  
+  </dependency>  
+  <generalization id="112">    
+    <bendpoint x="1715" y="1627"/>    
+    <bendpoint x="1715" y="1363"/>    
+    <end type="SOURCE" refId="25"/>    
+    <end type="TARGET" refId="46"/>  
+  </generalization>  
+  <generalization id="113">    
+    <end type="SOURCE" refId="51"/>    
+    <end type="TARGET" refId="46"/>  
+  </generalization>  
+  <dependency id="114">    
+    <end type="SOURCE" refId="50"/>    
+    <end type="TARGET" refId="15"/>  
+  </dependency>  
+  <nesting id="115">    
+    <end type="SOURCE" refId="44"/>    
+    <end type="TARGET" refId="33"/>  
+  </nesting>  
+  <nesting id="116">    
+    <bendpoint x="3040" y="2017"/>    
+    <end type="SOURCE" refId="28"/>    
+    <end type="TARGET" refId="19"/>  
+  </nesting>  
+  <dependency id="117">    
+    <end type="SOURCE" refId="50"/>    
+    <end type="TARGET" refId="47"/>  
+  </dependency>  
+  <dependency id="118">    
+    <bendpoint x="4204" y="1627"/>    
+    <end type="SOURCE" refId="50"/>    
+    <end type="TARGET" refId="24"/>  
+  </dependency>  
+  <association id="119">    
+    <end type="SOURCE" refId="30" navigable="false">      
+      <attribute id="120" name="docPanel">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="121" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="34" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="122">    
+    <end type="SOURCE" refId="22"/>    
+    <end type="TARGET" refId="2"/>  
+  </dependency>  
+  <dependency id="123">    
+    <end type="SOURCE" refId="19"/>    
+    <end type="TARGET" refId="17"/>  
+  </dependency>  
+  <dependency id="124">    
+    <end type="SOURCE" refId="34"/>    
+    <end type="TARGET" refId="5"/>  
+  </dependency>  
+  <dependency id="125">    
+    <end type="SOURCE" refId="4"/>    
+    <end type="TARGET" refId="10"/>  
+  </dependency>  
+  <dependency id="126">    
+    <bendpoint x="3166" y="421"/>    
+    <end type="SOURCE" refId="5"/>    
+    <end type="TARGET" refId="30"/>  
+  </dependency>  
+  <association id="127">    
+    <bendpoint x="4204" y="1363"/>    
+    <end type="SOURCE" refId="5" navigable="false">      
+      <attribute id="128" name="server">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="129" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="15" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <nesting id="130">    
+    <end type="SOURCE" refId="26"/>    
+    <end type="TARGET" refId="39"/>  
+  </nesting>  
+  <generalization id="131">    
+    <end type="SOURCE" refId="43"/>    
+    <end type="TARGET" refId="46"/>  
+  </generalization>  
+  <dependency id="132">    
+    <bendpoint x="2792" y="829"/>    
+    <bendpoint x="2792" y="421"/>    
+    <end type="SOURCE" refId="23"/>    
+    <end type="TARGET" refId="30"/>  
+  </dependency>  
+  <generalization id="133">    
+    <end type="SOURCE" refId="4"/>    
+    <end type="TARGET" refId="46"/>  
+  </generalization>  
+  <generalization id="134">    
+    <bendpoint x="1673" y="1627"/>    
+    <bendpoint x="1673" y="1363"/>    
+    <end type="SOURCE" refId="27"/>    
+    <end type="TARGET" refId="46"/>  
+  </generalization>  
+  <generalization id="135">    
+    <bendpoint x="1694" y="1627"/>    
+    <bendpoint x="1694" y="1363"/>    
+    <end type="SOURCE" refId="7"/>    
+    <end type="TARGET" refId="46"/>  
+  </generalization>  
+  <dependency id="136">    
+    <bendpoint x="3099" y="2335"/>    
+    <bendpoint x="3099" y="2017"/>    
+    <end type="SOURCE" refId="17"/>    
+    <end type="TARGET" refId="28"/>  
+  </dependency>  
+  <association id="137">    
+    <bendpoint x="2004" y="421"/>    
+    <bendpoint x="2004" y="829"/>    
+    <bendpoint x="2004" y="1363"/>    
+    <bendpoint x="2004" y="1627"/>    
+    <bendpoint x="1983" y="2017"/>    
+    <end type="SOURCE" refId="30" navigable="false">      
+      <attribute id="138" name="chatPane">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="139" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="26" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="140">    
+    <end type="SOURCE" refId="23"/>    
+    <end type="TARGET" refId="28"/>  
+  </dependency>  
+  <association id="141">    
+    <bendpoint x="2771" y="829"/>    
+    <bendpoint x="2377" y="1363"/>    
+    <bendpoint x="1983" y="1627"/>    
+    <bendpoint x="1941" y="2017"/>    
+    <end type="SOURCE" refId="34" navigable="false">      
+      <attribute id="142" name="paintGUI">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="143" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="12" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="144">    
+    <bendpoint x="2004" y="2971"/>    
+    <bendpoint x="2004" y="2653"/>    
+    <bendpoint x="2004" y="2335"/>    
+    <bendpoint x="2004" y="2017"/>    
+    <end type="SOURCE" refId="9"/>    
+    <end type="TARGET" refId="45"/>  
+  </generalization>  
+  <nesting id="145">    
+    <end type="SOURCE" refId="12"/>    
+    <end type="TARGET" refId="32"/>  
+  </nesting>  
+  <dependency id="146">    
+    <bendpoint x="3115" y="421"/>    
+    <end type="SOURCE" refId="30"/>    
+    <end type="TARGET" refId="29"/>  
+  </dependency>  
+  <dependency id="147">    
+    <end type="SOURCE" refId="40"/>    
+    <end type="TARGET" refId="35"/>  
+  </dependency>  
+  <dependency id="148">    
+    <end type="SOURCE" refId="50"/>    
+    <end type="TARGET" refId="49"/>  
+  </dependency>  
+  <generalization id="149">    
+    <bendpoint x="3534" y="2017"/>    
+    <bendpoint x="3529" y="1627"/>    
+    <end type="SOURCE" refId="31"/>    
+    <end type="TARGET" refId="48"/>  
+  </generalization>  
+  <dependency id="150">    
+    <bendpoint x="3520" y="1363"/>    
+    <end type="SOURCE" refId="5"/>    
+    <end type="TARGET" refId="47"/>  
+  </dependency>  
+  <dependency id="151">    
+    <end type="SOURCE" refId="34"/>    
+    <end type="TARGET" refId="3"/>  
+  </dependency>  
+  <dependency id="152">    
+    <end type="SOURCE" refId="43"/>    
+    <end type="TARGET" refId="10"/>  
+  </dependency>  
+  <generalization id="153">    
+    <end type="SOURCE" refId="41"/>    
+    <end type="TARGET" refId="45"/>  
+  </generalization>  
+  <nesting id="154">    
+    <end type="SOURCE" refId="22"/>    
+    <end type="TARGET" refId="38"/>  
+  </nesting>  
+  <nesting id="155">    
+    <end type="SOURCE" refId="10"/>    
+    <end type="TARGET" refId="37"/>  
+  </nesting>  
+  <dependency id="156">    
+    <bendpoint x="1920" y="2017"/>    
+    <bendpoint x="1941" y="1627"/>    
+    <bendpoint x="1983" y="1363"/>    
+    <bendpoint x="1983" y="829"/>    
+    <bendpoint x="1983" y="421"/>    
+    <end type="SOURCE" refId="12"/>    
+    <end type="TARGET" refId="30"/>  
+  </dependency>  
+  <association id="157">    
+    <end type="SOURCE" refId="26" navigable="false">      
+      <attribute id="158" name="chat">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="159" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="22" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="160">    
+    <bendpoint x="613" y="2017"/>    
+    <bendpoint x="616" y="1627"/>    
+    <bendpoint x="618" y="1363"/>    
+    <end type="SOURCE" refId="40"/>    
+    <end type="TARGET" refId="46"/>  
+  </dependency>  
+  <dependency id="161">    
+    <end type="SOURCE" refId="28"/>    
+    <end type="TARGET" refId="20"/>  
+  </dependency>  
+  <generalization id="162">    
+    <end type="SOURCE" refId="52"/>    
+    <end type="TARGET" refId="48"/>  
+  </generalization>  
+  <dependency id="163">    
+    <end type="SOURCE" refId="51"/>    
+    <end type="TARGET" refId="10"/>  
+  </dependency>  
+  <dependency id="164">    
+    <end type="SOURCE" refId="39"/>    
+    <end type="TARGET" refId="26"/>  
+  </dependency>  
+  <dependency id="165">    
+    <bendpoint x="534" y="421"/>    
+    <bendpoint x="534" y="829"/>    
+    <bendpoint x="534" y="1363"/>    
+    <bendpoint x="534" y="1627"/>    
+    <bendpoint x="534" y="2017"/>    
+    <bendpoint x="534" y="2335"/>    
+    <end type="SOURCE" refId="30"/>    
+    <end type="TARGET" refId="35"/>  
+  </dependency>  
+  <dependency id="166">    
+    <end type="SOURCE" refId="19"/>    
+    <end type="TARGET" refId="28"/>  
+  </dependency>  
+  <nesting id="167">    
+    <end type="SOURCE" refId="28"/>    
+    <end type="TARGET" refId="13"/>  
+  </nesting>  
+  <dependency id="168">    
+    <end type="SOURCE" refId="34"/>    
+    <end type="TARGET" refId="30"/>  
+  </dependency>  
+  <dependency id="169">    
+    <end type="SOURCE" refId="30"/>    
+    <end type="TARGET" refId="5"/>  
+  </dependency>  
+  <dependency id="170">    
+    <end type="SOURCE" refId="27"/>    
+    <end type="TARGET" refId="12"/>  
+  </dependency>  
+  <dependency id="171">    
+    <end type="SOURCE" refId="10"/>    
+    <end type="TARGET" refId="27"/>  
+  </dependency>  
+  <dependency id="172">    
+    <end type="SOURCE" refId="42"/>    
+    <end type="TARGET" refId="6"/>  
+  </dependency>  
+  <dependency id="173">    
+    <end type="SOURCE" refId="20"/>    
+    <end type="TARGET" refId="26"/>  
+  </dependency>  
+  <dependency id="174">    
+    <bendpoint x="876" y="2335"/>    
+    <bendpoint x="876" y="2017"/>    
+    <end type="SOURCE" refId="35"/>    
+    <end type="TARGET" refId="10"/>  
+  </dependency>  
+  <dependency id="175">    
+    <end type="SOURCE" refId="25"/>    
+    <end type="TARGET" refId="12"/>  
+  </dependency>  
+  <dependency id="176">    
+    <bendpoint x="3162" y="2335"/>    
+    <bendpoint x="3162" y="2017"/>    
+    <bendpoint x="3162" y="1627"/>    
+    <end type="SOURCE" refId="42"/>    
+    <end type="TARGET" refId="48"/>  
+  </dependency>  
+  <association id="177">    
+    <bendpoint x="855" y="2017"/>    
+    <bendpoint x="715" y="1627"/>    
+    <bendpoint x="576" y="1363"/>    
+    <end type="SOURCE" refId="12" navigable="false">      
+      <attribute id="178" name="paint">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="179" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="1" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="180">    
+    <end type="SOURCE" refId="10"/>    
+    <end type="TARGET" refId="25"/>  
+  </dependency>  
+  <dependency id="181">    
+    <end type="SOURCE" refId="32"/>    
+    <end type="TARGET" refId="12"/>  
+  </dependency>  
+  <dependency id="182">    
+    <end type="SOURCE" refId="40"/>    
+    <end type="TARGET" refId="10"/>  
+  </dependency>  
+  <dependency id="183">    
+    <bendpoint x="1921" y="421"/>    
+    <end type="SOURCE" refId="30"/>    
+    <end type="TARGET" refId="3"/>  
+  </dependency>  
+  <dependency id="184">    
+    <end type="SOURCE" refId="18"/>    
+    <end type="TARGET" refId="15"/>  
+  </dependency>  
+  <classifier-display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+    sort-features="false" accessors="true" visibility="true">    
+    <attributes public="true" package="true" protected="true" private="true" static="true"/>    
+    <operations public="true" package="true" protected="true" private="true" static="true"/>  
+  </classifier-display>  
+  <association-display labels="true" multiplicity="true"/>
+</class-diagram>
