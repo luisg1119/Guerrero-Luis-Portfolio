@@ -7,7 +7,6 @@
 */
 
 
-import java.io.BufferedReader;
 import java.io.FileNotFoundException;
 import java.io.FileReader;
 import java.util.Scanner;
@@ -80,7 +79,7 @@ public class Triangle {
 			call--;
 		}
 		
-		System.out.println("The maximum path gives: " + array[0][0]);
+		System.out.println("The maximum path's sum is: " + array[0][0]);
 	}
 
 	/**
