@@ -36,6 +36,7 @@ public class Run extends JFrame {
 				try {
 					Run frame = new Run();
 					frame.setVisible(true);
+					frame.setResizable(false);
 					Window panel = new Window();
 					frame.getContentPane().add(panel);
 

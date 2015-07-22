@@ -32,7 +32,7 @@ public class Reverse {
 	**/
 	public Boolean check(){
 		String regex = "[0-9]+";
-		if (num.substring(0,(num.length()-1)).matches(regex)){
+		if (num.substring(0,(num.length())).matches(regex)){
 			return true;
 		}
 		return false;
