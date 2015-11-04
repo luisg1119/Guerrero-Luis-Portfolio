@@ -1,0 +1,57 @@
+html,
+body{
+	background-color:#DEDEDE;
+	height:100%;
+	margin:0;
+	padding:0
+}
+
+.container{
+	height:100%;
+	display:table;
+	max-width:760px;
+	width: 100%;
+	padding: 0;
+}
+.inner-container{
+	height: 100%; 
+	display:table-cell; 
+	vertical-align: middle;
+}
+.vertical-align{
+	float:none;
+ 	margin:0 auto;
+}
+
+.head-text{
+	margin-top:0px;
+}
+
+.help-links{
+	padding-left:3px;;
+	margin-left:0px;
+}
+.help-links-padding{
+	padding-left:17px;
+}
+
+.help-links li{
+	list-style-type:none;
+}
+
+.help-links li a:hover{
+	text-decoration:none;
+	color:#5EACFF;
+	
+}
+
+.red{
+	color:red;	
+	text-align:left;
+}
+
+.text{
+	font-size:20px
+}
+
+
