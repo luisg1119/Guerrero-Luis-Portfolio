@@ -13,7 +13,7 @@ Within the following repository you will find
 
 ## About_me
 	
-I am a full-stack web developer and software engineer. My primary focus is to learn and be challenged  through the utilization of multiple technologies and produce quality deliverables. I strive to produce reusable and documented work that has been optimized to perform. I take pride in my work and am confident I can make any vision a reality regardless of the tech stack. Please feel free to look around in the repository and see some of my public code that I have worked on during my free time for fun. If you need to contact me please feel free to reach me at:
+I am a full-stack web developer and software engineer. My primary focus is to learn and be challenged  through the utilization of multiple technologies and produce quality deliverables. I strive to create reusable and documented work that has been optimized and tested. I take pride in my work and am confident I can make any vision a reality regardless of the tech stack. Please feel free to look around in my repository and see some of my public code that I have worked on during my free time for fun. If you need to contact me please feel free to reach me at:
 	Luisguerrero120@Gmail.com
 
 Please note: I have worked on various other projects. What is viewable are just small code samples. 
