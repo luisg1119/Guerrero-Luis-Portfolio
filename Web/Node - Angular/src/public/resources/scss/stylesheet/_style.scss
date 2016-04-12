@@ -1,0 +1,87 @@
+//This css/scss file contains only global settings
+//there are no page specific rules
+#logo {
+  height: 40px;
+}
+
+#line {
+  border-left: 1px solid white;
+  margin-left: 20px;
+}
+
+.image-circle {
+  border-radius: 50%;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.nav-bar-title {
+  font-size: 20px;
+}
+
+.dash-button {
+  min-width: 40px !important;
+}
+
+.underline {
+  text-decoration: underline;
+}
+
+.block-button {
+  width: 100%;
+}
+
+.success-message {
+  color: green;
+}
+
+.error-message {
+  color: red
+}
+
+.column-list {
+    padding: 0px;
+    margin: 0px;
+    text-decoration: none;
+    columns: 3;
+    -webkit-columns: 3;
+    -moz-columns: 3;
+}
+
+.column-list li {
+    text-decoration: none;
+    list-style: none;
+}
+
+.single-column {
+  -webkit-column-count: 1; /* Chrome, Safari, Opera */
+  -moz-column-count: 1; /* Firefox */
+  column-count: 1;
+}
+
+.md-select-menu-container:not(.md-clickable) {
+  pointer-events: auto;
+}
+
+md-option {
+  background-color: white !important;
+}
+
+md-option:hover {
+  background-color: #eeeeee !important;
+}
+
+.even {background: #F2F2F2 !important;}
+.odd {background: #E9E9E9 !important;}
+
+.add-user-info {
+  font-size: 14px;
+  padding: 0px !important;
+  margin: 9px 0px !important;
+}
+
+.fieldset-custom {
+  padding-bottom: 0px !important;
+}

@@ -1,0 +1,27 @@
+<md-dialog flex-sm="100" flex-md="50" flex-lg="40"
+           aria-label="Delete User"  ng-cloak>
+    <md-toolbar>
+        <div class="md-toolbar-tools">
+            <h2>Delete User</h2>
+            <span flex></span>
+            <md-button class="md-icon-button" ng-click="cancel()">
+                <md-icon class="material-icon" aria-label="Close dialog">close</md-icon>
+            </md-button>
+        </div>
+    </md-toolbar>
+    <md-dialog-content layout="column" layout-padding layout-align="center">
+        <div ng-show="loading">
+            <div ng-show="loading" layout="row" layout-align="center">
+                <md-progress-circular md-mode="indeterminate"></md-progress-circular>
+            </div>
+        </div>
+        <div ng-hide="loading">
+            <p class="text-center">Are you sure you want to delete <b>{{user.str_full_name}}</b>?</p>
+        </div>
+    </md-dialog-content>
+    <md-dialog-actions ng-hide="loading" layout="row" layout-align="center">
+        <md-button type="button" class="md-raised md-primary modal-button-center" ng-click="delete()">
+            Delete User
+        </md-button>
+    </md-dialog-actions>
+</md-dialog>

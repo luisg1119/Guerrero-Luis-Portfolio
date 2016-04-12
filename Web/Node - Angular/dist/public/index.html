@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html ng-app="stealie">
+<head>
+    <title>Admin Page Node.js</title>
+    <!-- inject:css -->
+    <link rel="stylesheet" href="resources/css/vendor.min.css">
+    <link rel="stylesheet" href="resources/css/app.min.css">
+    <!-- endinject -->
+
+    <!-- inject:js -->
+    <script src="js/vendor/angular.js"></script>
+    <script src="js/vendor/sheetjs.all.js"></script>
+    <script src="js/vendor/FileSaver.js"></script>
+    <script src="js/vendor/angular-animate.js"></script>
+    <script src="js/vendor/angular-aria.js"></script>
+    <script src="js/vendor/angular-material.js"></script>
+    <script src="js/vendor/angular-messages.js"></script>
+    <script src="js/vendor/angular-route.js"></script>
+    <script src="js/vendor/angular-sanitize.js"></script>
+    <script src="js/vendor/excelplus-2.3.js"></script>
+    <script src="js/vendor/ng-file-upload-shim.js"></script>
+    <script src="js/vendor/ng-file-upload.js"></script>
+    <script src="js/app/app.js"></script>
+    <script src="js/app/services/Bluepages.js"></script>
+    <script src="js/app/services/Loading.js"></script>
+    <script src="js/app/controllers/appadmin/DeleteUserController.js"></script>
+    <script src="js/app/controllers/appadmin/EditUserController.js"></script>
+    <script src="js/app/controllers/appadmin/ManageUsersController.js"></script>
+    <script src="js/app/controllers/appadmin/ViewUserController.js"></script>
+    <script src="js/app/controllers/login/LoginController.js"></script>
+    <!-- endinject -->
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+</head>
+<body ng-cloak>
+
+    <section layout="row" flex>
+        <md-sidenav layout="column" class="md-sidenav-left md-whiteframe-z2"
+                    md-component-id="left">
+            <md-toolbar>
+                <div layout="column" layout-padding layout-align="center center">
+                    <user-avatar>
+                        <img src="resources/images/me.jpg" class="image-circle" height="100px"/>
+                    </user-avatar>
+                    <div><b>Luis Guerrero</b></div>
+                    <div>Luisguerrero120@Gmail.com</div>
+                </div>
+            </md-toolbar>
+            <md-content>
+                <md-list>
+                    <md-list-item layout="row">
+                        <md-button>
+                            <md-icon class="material-icon">person</md-icon>
+                            Edit Profile
+                        </md-button>
+                    </md-list-item>
+                    <md-list-item layout="row">
+                        <md-button>
+                            <md-icon class="material-icon">settings</md-icon>
+                            Settings
+                        </md-button>
+                    </md-list-item>
+                    <md-list-item layout="row">
+                        <md-button>
+                            <md-icon class="material-icon">exit_to_app</md-icon>
+                            Logout
+                        </md-button>
+                    </md-list-item>
+                    </md-button>
+                </md-list>
+                <hr />
+                <h3 class="text-center underline">
+                    Application Access
+                </h3>
+                <!-- TODO make dynamic -->
+                <md-list>
+                    <md-list-item layout="row" layout-align="center center">
+                        <md-button class="block-button">
+                            Application Admin
+                        </md-button>
+                    </md-list-item>
+                    <md-list-item layout="row" layout-align="center center">
+                        <md-button class="block-button">
+                            Financial Controller
+                        </md-button>
+                    </md-list-item>
+                </md-list>
+            </md-content>
+        </md-sidenav>
+    </section>
+    <div class="container" ng-view>
+    </div>
+
+
+</body>
+</html>

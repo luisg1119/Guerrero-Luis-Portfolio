@@ -1,0 +1,32 @@
+<!-- login panel -->
+<!-- content container -->
+<div flex-sm="100" flex-md="50" flex-lg="40"
+     flex-offset-sm="0" flex-offset-md="25" flex-offset-lg="30" layout-padding role="main" class="pad-top">
+  <md-content layout="column">
+    <md-whiteframe class="md-whiteframe-z1" layout="row" layout-align="left center" flex layout-padding>
+      <img src="../../resources/images/ibm.png" />
+      ITC Login
+    </md-whiteframe>
+    <md-whiteframe class="md-whiteframe-z1" flex layout-padding>
+      <form method="POST" ng-submit="authenticate()">
+        <md-content class="md-no-momentum">
+          <p>Please log in with your Bluepages email and password</p>
+          <p class="error-message">{{errorMessage}}</p>
+          <md-input-container class="md-icon-float md-block">
+            <label>Email</label>
+            <md-icon class="material-icon">email</md-icon>
+            <input ng-model="user.email" type="email" required/>
+          </md-input-container>
+          <md-input-container class="md-icon-float md-block">
+            <label>Password</label>
+            <md-icon class="material-icon">lock</md-icon>
+            <input ng-model="user.password" type="password" required />
+          </md-input-container>
+          <md-input-container style="margin-top: 0%">
+            <md-button class="md-raised md-primary" type="submit">Login</md-button>
+          </md-input-container>
+        </md-content>
+      </form>
+    </md-whiteframe>
+  </md-content>
+</div>

@@ -1,0 +1,60 @@
+<div ng-include src="'html/appadmin/navbar.html'"></div>
+<!-- content container -->
+<div flex-sm="100" flex-md="70" flex-lg="70"
+     flex-offset-sm="0" flex-offset-md="15" flex-offset-lg="15" layout-padding role="main" class="pad-top">
+    <md-content layout="column">
+        <md-whiteframe class="md-whiteframe-z1" layout="row" layout-align="center center" flex layout-padding>
+            <h2>Manage Users</h2>
+        </md-whiteframe>
+        <md-whiteframe class="md-whiteframe-z1" flex layout-padding>
+            <md-content class="md-no-momentum">
+                <div ng-show="view.loading && !view.modalOpen" layout="row" layout-align="center">
+                    <md-progress-circular md-mode="indeterminate"></md-progress-circular>
+                </div>
+                <div ng-hide="view.loading && !view.modalOpen">
+                    <p class="success-message text-center">{{view.successMessage}}</p>
+                    <p class="error-message text-center">{{view.errorMessage}}</p>
+                    <div class="scrollable">
+                        <table style="width:100%">
+                            <thead class="table-head">
+                            <tr>
+                                <md-input-container>
+                                    <label>Filter by role</label>
+                                    <md-select ng-model="roleFilter">
+                                        <md-option ng-value="undefined">All</md-option>
+                                        <md-option ng-repeat="role in userRoles">{{role.str_role_name}}</md-option>
+                                    </md-select>
+                                </md-input-container>
+                            </tr>
+                            <tr>
+                                <th>User Name</th>
+                                <th>User Email</th>
+                                <th>User Roles</th>
+                                <th>Actions</th>
+                            </tr>
+                            </thead>
+                            <tbody>
+                            <tr ng-repeat="user in users | filter: {roles:roleFilter} | orderBy: '+str_full_name'" ng-class-odd="'odd'" ng-class-even="'even'">
+                                <td class="text-center">{{user.str_full_name}}</td>
+                                <td class="text-center">{{user.str_email}}</td>
+                                <td class="text-center">
+                                    <ul class="column-list single-column" style="column-count:1;">
+                                        <li ng-repeat="role in user.roles | orderBy: '+str_role_name'">
+                                            {{role}}
+                                        </li>
+                                    </ul>
+                                </td>
+                                <td class="text-center">
+                                    <a href="" ng-click="editUser(user)"><md-icon class="material-icon">mode_edit</md-icon></a>
+                                    <a href="" ng-click="deleteUser(user)"><md-icon class="material-icon">delete_forever</md-icon></a>
+                                    <a href="" ng-click="viewUser(user)"><md-icon class="material-icon">visibility</md-icon></a>
+                                </td>
+                            </tr>
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+            </md-content>
+        </md-whiteframe>
+    </md-content>
+</div>
