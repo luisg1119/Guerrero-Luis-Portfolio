@@ -22,24 +22,31 @@ Please note: I have worked on various other projects. What is viewable are just 
 
 ## [Resume](https://github.com/luisg1119/Guerrero-Luis-Portfolio/blob/master/Guerrero_Luis_Resume.pdf)
 
-	Describes at a high level my skillset and qualifications. In addition to where I have been working, along with some other information about myself. 
+Describes at a high level my skillset and qualifications. In addition to where I have been working, along with some other information about myself. 
 
 ---
 
 ## [College_Transcripts](https://github.com/luisg1119/Guerrero-Luis-Portfolio/blob/master/Guerrero_Luis_Transcript.pdf)
 	
-	View my scholastic qualifications 
+View my scholastic qualifications 
 
 ---
 
 ## [Web_Folder](https://github.com/luisg1119/Guerrero-Luis-Portfolio/tree/master/Web)
 
-	In this folder you can view code I have created utilizing various web-stack technologies ranging from, but not limited to:
-		PHP, Node.js (Server, Gulp), Angular.js, JS (JQuery), HTML, CSS (Bootstrap, Foundation, Angular Material)
+In this folder you can view code I have created utilizing various web-stack technologies ranging from, but not limited to:
+
+* PHP
+* Node.js (Server, Gulp) 
+* Angular.js  
+* JS (JQuery) 
+* HTML  
+* CSS (Bootstrap, Foundation, Angular Material)
+* and many more...
 
 ---
 
 ## [Java_Folder](https://github.com/luisg1119/Guerrero-Luis-Portfolio/tree/master/Java)
 
-	Java material can be found in the folder. In specific a multi-threading application, GUI applications, Algorithm exercises and web development with Java. 
+Java material can be found in the folder. In specific a multi-threading application, GUI applications, Algorithm exercises and web development with Java. 
 
