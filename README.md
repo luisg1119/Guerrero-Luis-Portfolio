@@ -6,8 +6,8 @@ Within the following repository you will find
 * [A Little About Myself](#about_me)
 * [Resume](#resume)
 * [College Transcripts](#college_transcripts)
-* [Web Stack Folder](#web)
-* [Java Folder](#java)
+* [Web Stack Folder](#web_folder)
+* [Java Folder](#java_folder)
 
 ---
 
@@ -32,14 +32,14 @@ Please note: I have worked on various other projects. What is viewable are just 
 
 ---
 
-## [Web](https://github.com/luisg1119/Guerrero-Luis-Portfolio/tree/master/Web)
+## [Web_Folder](https://github.com/luisg1119/Guerrero-Luis-Portfolio/tree/master/Web)
 
 	In this folder you can view code I have created utilizing various web-stack technologies ranging from, but not limited to:
 		PHP, Node.js (Server, Gulp), Angular.js, JS (JQuery), HTML, CSS (Bootstrap, Foundation, Angular Material)
 
 ---
 
-## [Java](https://github.com/luisg1119/Guerrero-Luis-Portfolio/tree/master/Java)
+## [Java_Folder](https://github.com/luisg1119/Guerrero-Luis-Portfolio/tree/master/Java)
 
 	Java material can be found in the folder. In specific a multi-threading application, GUI applications, Algorithm exercises and web development with Java. 
 
