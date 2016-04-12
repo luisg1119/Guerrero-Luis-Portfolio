@@ -2,8 +2,7 @@
 
 ---
 
-Within the following repository you will find:
-
+Within the following repository you will find
 	* [A Little About Myself](#A)
 	* [Resume](#resume)
 	* [College Transcripts](#college)
