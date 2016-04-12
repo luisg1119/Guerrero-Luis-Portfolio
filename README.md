@@ -3,11 +3,11 @@
 ---
 
 Within the following repository you will find
-* [A Little About Myself](#A)
+* [A Little About Myself](#a little about myself)
 * [Resume](#resume)
-* [College Transcripts](#college)
-* [Web Stack Folder](#web)
-* [Java Folder](#java)
+* [College Transcripts](#college transcripts)
+* [Web Stack Folder](#web stack folder)
+* [Java Folder](#java folder)
 
 ---
 
