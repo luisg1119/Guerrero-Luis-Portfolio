@@ -36,8 +36,7 @@ View my scholastic qualifications
 
 ---
 
-## [Web_Folder](https://github.com/luisg1119/Guerrero-Luis-Portfolio/tree/master/https://www.linkedin.com/in/luisalfonsoguerrero
-Web)
+## [Web_Folder](https://github.com/luisg1119/Guerrero-Luis-Portfolio/tree/master/https://www.linkedin.com/in/luisalfonsoguerreroWeb)
 
 In this folder you can view code I have created utilizing various web-stack technologies ranging from, but not limited to:
 
