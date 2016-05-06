@@ -1,4 +1,4 @@
-# Stealie - US
+# NodeJS/AngularJs Project
 
 ---
 
