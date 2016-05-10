@@ -1,3 +1,9 @@
+# Optimal Path Algorithm
+
+--- 
+
+## What this is
+
 You can view a video of Optimal Path - Triangle.java at:
 https://www.youtube.com/watch?v=jsbZFRFzTiY
 

@@ -1,1 +1,0 @@
-A quick demonstration of JavaScript Circles can be found on:https://www.youtube.com/watch?v=WXAjJRmjR_c
