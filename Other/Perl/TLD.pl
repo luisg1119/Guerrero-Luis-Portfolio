@@ -43,7 +43,7 @@ sub createTLD{
 	#Array Variable
 	my @words;
 
-	#Open dictionary Library in Perl and add a reference to the variable WORDS 
+	#Open dictionary Library in Perl and add a reference to the variable $dict 
 	open (my $dict, '<', $dictionary) 
 		or die "Cannot open $dictionary:$!";
 
@@ -69,7 +69,6 @@ sub createTLD{
 	my @shuffled_words = shuffle(@words);
 
 	return @shuffled_words;
-	#print for @shuffled_words[0 .. $numwords -1 ];
 }
 
 sub getExtention{
@@ -100,8 +99,7 @@ sub getExtention{
 sub exportToText{
 	#params
 	my ($num, $fileName, @array) = (@_);
-	#Desired filename
-	#File to write open/create
+	#File to write open/create add reference to $file
 	open(my $file, '>', $fileName) 
 		or die "Could not open file '$fileName' $!";
 	#File Contents	
