@@ -53,7 +53,9 @@ In this folder you can view code I have created utilizing various web-stack tech
 
 ## [Java_Folder](https://github.com/luisg1119/Guerrero-Luis-Portfolio/tree/master/Java)
 
-Java material can be found in the folder. In specific:
+Java material can be found in the folder. 
+
+In specific:
  * multi-threading application
  * GUI applications
  * Algorithm exercises
@@ -63,6 +65,8 @@ Java material can be found in the folder. In specific:
 
 ## [Other](https://github.com/luisg1119/Guerrero-Luis-Portfolio/tree/master/Other)
 
-In the 'Other' folder, I have non-Web/Java code snippets where I play around with different languages to expand my personal understanding of programming. 
+In the 'Other' folder, I have non-Web/Java code snippets where I play around with different languages to expand my personal understanding of programming.
+
+Current tech stack used here: 
  * Perl
 
