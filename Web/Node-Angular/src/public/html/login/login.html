@@ -3,14 +3,15 @@
 <div flex-sm="100" flex-md="50" flex-lg="40"
      flex-offset-sm="0" flex-offset-md="25" flex-offset-lg="30" layout-padding role="main" class="pad-top">
   <md-content layout="column">
-    <md-whiteframe class="md-whiteframe-z1" layout="row" layout-align="left center" flex layout-padding>
-      <img src="../../resources/images/ibm.png" />
-      ITC Login
-    </md-whiteframe>
     <md-whiteframe class="md-whiteframe-z1" flex layout-padding>
+      <md-toolbar layout="row" layout-align="left center">
+        <img src="../../resources/images/logo.png" class="logo" />
+        <p flex>Angular-Node Login</p>
+        <span flex></span>
+      </md-toolbar>
       <form method="POST" ng-submit="authenticate()">
-        <md-content class="md-no-momentum">
-          <p>Please log in with your Bluepages email and password</p>
+        <md-content>
+          <p>Please log in with your specified email and password</p>
           <p class="error-message">{{errorMessage}}</p>
           <md-input-container class="md-icon-float md-block">
             <label>Email</label>

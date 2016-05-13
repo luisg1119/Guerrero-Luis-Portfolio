@@ -7,9 +7,9 @@ var mysql = require('mysql'); // our mysql module
 var pool = mysql.createPool({
     connectionLimit: 100, // this can be set to whatever value needed
     host: 'us-cdbr-iron-east-03.cleardb.net',
-    user: 'b07145c23a72c4',
-    password: 'c05c69b7',
-    database: 'ad_9caedda3cea315b'
+    user: 'b352387dea1d5b',
+    password: '89a92322',
+    database: 'ad_5448df10d0c23af'
 });
 
 module.exports = pool;
